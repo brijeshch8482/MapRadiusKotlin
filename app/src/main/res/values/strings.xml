@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MapRadiusKotlin</string>
+    <string name="geofence_exit_title">Geofence Exit</string>
+    <string name="geofence_enter_title">Geofence Enter</string>
+    <string name="geofence_channel_name">Geofence Notifications</string>
+    <string name="geofence_channel_description">Notifications for geofence transitions</string>
+    <string name="you_are_here">You are here</string>
+    <string name="geofence_enter_message">You have entered the geofence centered at: %1$.6f, %2$.6f</string>
+    <string name="geofence_exit_message">You have exited the geofence centered at: %1$.6f, %2$.6f</string>
+</resources>
